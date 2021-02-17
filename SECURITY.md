@@ -1,10 +1,8 @@
-OS2produkt security policies
-=============================
+# OS2produkt security policies
 
 The development team is strongly committed to responsible reporting and disclosure of security-related issues. As such, we’ve adopted and follow a set of policies which conform to that ideal and are geared toward allowing us to deliver timely security updates to the official distribution of Open Zaak.
 
-Reporting security issues
--------------------------
+## Reporting security issues
 
 **Short version: please report security issues by emailing insert-mail@os2.eu.**
 
@@ -23,10 +21,9 @@ Once you’ve submitted an issue via email, you should receive an acknowledgment
 member of the security team as soon as possible, and depending on the action to be taken,
 you may receive further followup emails.
 
-Timeline of the process
------------------------
+## Timeline of the process
 
-OS2product has a steering group, coordinating group and 1 or more vendors of which all members must response in the event of security issues.
+OS2product on level 2 and above have a steering group, coordinating group and 1 or more vendors of which all members must response in the event of security issues. Information can at all times be found on the wiki pages either on Github or on [OS2s website](https://os2.eu).
 
 1. The recipients of the report first validate if there is indeed a (possible) issue.
 
@@ -40,7 +37,7 @@ OS2product has a steering group, coordinating group and 1 or more vendors of whi
    to the repository administrators and development group. Severity and impact
    will be established here.
 
-5. If appropriate, we request a `CVE identifier`_ from Github.
+5. If appropriate, we request a [`CVE identifier`](https://cve.mitre.org/cve/identifiers/) from Github.
 
 6. A patch is implemented, reviewed and tested in a private fork.
 
@@ -53,8 +50,4 @@ OS2product has a steering group, coordinating group and 1 or more vendors of whi
    update their managed instances.
 
 9. The release and security vulnerability are communicated to the community. This
-   includes a message to the `mailing list`_ and announcements on the choosen communication platform.
-
-
-.. _CVE identifier: https://cve.mitre.org/cve/identifiers/
-.. _mailing list: https://os2.eu/
+   includes a message to the [`mailing list`](https://os2.eu/) and announcements on the choosen communication platform.
