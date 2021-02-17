@@ -1,3 +1,5 @@
+#Thank you the everyone that help!
+
 In this document we recommend writing a little about how the project was created and pay tribute to the contributors.
 
 Here is a list of MUCH-APPRECIATED CONTRIBUTORS --
