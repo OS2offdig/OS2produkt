@@ -1,3 +1,4 @@
+
 # OS2produkt security policies
 
 The development team is strongly committed to responsible reporting and disclosure of security-related issues. As such, we’ve adopted and follow a set of policies which conform to that ideal and are geared toward allowing us to deliver timely security updates to the official distribution of OS2produkt.
